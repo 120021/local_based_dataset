@@ -1,5 +1,6 @@
 # Local_based_dataset
 
+
 ## Subjective perceptions
 Assessing human perceptions of the urban environment is beneficial for decision-making to improve the environment. We collected subjective perception ratings from Shenzhen residents on street view images in Shenzhen to help construct a local perception dataset. The dataset includes subjective perceptions and SVI visual features. Subjective perceptions comprise beautiful, wealthy, boring, depressing, lively, and safe.
 ![Figure1](https://github.com/120021/local_based_dataset/assets/151159163/ff2cfb13-f2eb-4ca4-9813-1ffe5c2cebfc)
